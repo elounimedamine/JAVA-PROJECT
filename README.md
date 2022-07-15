@@ -1,2 +1,2 @@
-# JAVA-PROJECT
+# JAVA-PROJECT.
 Bulls-Cows game builded with JAVA.
