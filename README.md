@@ -1,2 +1,2 @@
 # JAVA-PROJECT
-Vaches-Taureaux game builded with JAVA.
+Bulls-Cows game builded with JAVA.
